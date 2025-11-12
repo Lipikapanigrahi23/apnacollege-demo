@@ -1,4 +1,4 @@
 # apnacollege-demo
-author - Lipika panigrahi
+author - Lipika (apna college)
 <br>
 this is my first github project
